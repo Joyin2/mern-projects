@@ -1,0 +1,22 @@
+{
+  "name": "my_name",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joyin",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joyin2/practice_mern.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Joyin2/practice_mern/issues"
+  },
+  "homepage": "https://github.com/Joyin2/practice_mern#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
